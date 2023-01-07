@@ -471,14 +471,4 @@ Results obtained from both agreed with each other, in that the clade Macrohetero
 Next, to study fore- and hindwing shape correlation, we examined PC1 and PC2 transformed with phylogenetic information for both.
 PIC analysis on fore- and hindwing PC1 showed significant correlation (R-squared: 0.4476), whereas PIC analysis using PC2 found no significant correlation (R-squared: 0.00408).
 
-# Author Contributions
-
-Tingwei - Discussion, Rmd Setup, preprocessing up to EFA, PCA revision, PIC for PC2
-
-Justin - Wing Tracing, PCA Analysis, Results, Discussion, Formatting
-
-Liz - Introduction, Methods, Discussion, References
-
-James - Introduction, Methods, Results, Formatting
-
 # References
